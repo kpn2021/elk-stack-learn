@@ -1,0 +1,7 @@
+下载地址
+https://elasticsearch.cn/download/
+
+根据自己的操作系统选择对应的版本下载es ,kibana , logstash ,ik分词器 ，pinyin分词器,
+
+然后把 解压后的 ik分词器 ，pinyin分词器的zip包，放到es目录里的plugin文件夹里。
+最后，按照教程依次启动 es ,kibana ,logstash
