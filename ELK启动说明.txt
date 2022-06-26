@@ -1,1 +1,6 @@
-2分叫你bf
+1.启动 ES
+2.启动 kibana
+3.启动 logstatsh
+
+具体操作截图见 
+https://github.com/kpn2021/elk-stack-learn/tree/main/demo-elk/doc
